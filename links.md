@@ -21,3 +21,9 @@ Awesome Computer Vision
 ### 4. https://github.com/betars/Face-Resources
 
 Face-Resources
+
+# 2. Web Articles
+
+#### 1. https://habr.com/company/speechpro/blog/418151/
+
+#### 2. https://habr.com/company/neurodatalab/blog/412845/
