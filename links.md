@@ -27,3 +27,10 @@ Face-Resources
 #### 1. https://habr.com/company/speechpro/blog/418151/
 
 #### 2. https://habr.com/company/neurodatalab/blog/412845/
+
+
+# 3. Working products 
+
+#### 1. http://www.vicarvision.nl/technology/reading-faces/
+
+#### 2. https://www.facereader-online.com/Technology.aspx
