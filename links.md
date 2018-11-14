@@ -28,6 +28,8 @@ Face-Resources
 
 #### 2. https://habr.com/company/neurodatalab/blog/412845/
 
+#### 3. https://github.com/kjw0612/awesome-deep-vision
+
 
 # 3. Working products 
 
