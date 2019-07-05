@@ -22,6 +22,10 @@ Awesome Computer Vision
 
 Face-Resources
 
+### 5. http://www.socsci.ru.nl:8180/RaFD2/RaFD?p=main
+
+Radboud Faces Database
+
 # 2. Web Articles
 
 #### 1. https://habr.com/company/speechpro/blog/418151/
@@ -29,6 +33,8 @@ Face-Resources
 #### 2. https://habr.com/company/neurodatalab/blog/412845/
 
 #### 3. https://github.com/kjw0612/awesome-deep-vision
+
+#### 4. https://github.com/isseu/emotion-recognition-neural-networks/blob/master/paper/Report_NN.pdf
 
 
 # 3. Working products 
